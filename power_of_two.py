@@ -3,7 +3,7 @@
 # Created by: Joseph Kwon
 # Created on: November 3
 # This program gets the user's input and outputs a
-# #list if numbers up to the user's number to a power of 2
+# #list of numbers up to the user's number to a power of 2
 
 
 def main():
